@@ -1,0 +1,2 @@
+# grsql
+Golang RSQL library
